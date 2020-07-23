@@ -1,0 +1,6 @@
+[submodule "external/celix"]
+	path = external/celix
+	url = https://github.com/apache/celix.git
+[submodule "external/cppelix"]
+	path = external/cppelix
+	url = https://github.com/volt-software/cppelix.git
